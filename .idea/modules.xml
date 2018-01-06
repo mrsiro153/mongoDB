@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mongoDBCore.iml" filepath="$PROJECT_DIR$/.idea/modules/mongoDBCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mongoDBCore_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mongoDBCore_main.iml" group="mongoDBCore" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mongoDBCore_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mongoDBCore_test.iml" group="mongoDBCore" />
+    </modules>
+  </component>
+</project>
