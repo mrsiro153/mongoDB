@@ -27,7 +27,7 @@ public class MongoDBConnect {
         return this;
     }
 
-    private MongoDBConnect createConnection(){
+    public MongoDBConnect createConnection(){
         try {
             this.mongoClient = new MongoClient(host, port);
         }catch (MongoTimeoutException e){

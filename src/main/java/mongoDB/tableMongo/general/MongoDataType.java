@@ -1,4 +1,4 @@
-package mongoDB.tableMongo;
+package mongoDB.tableMongo.general;
 
 public enum  MongoDataType {
     NUMERIC(1,"numeric"),
